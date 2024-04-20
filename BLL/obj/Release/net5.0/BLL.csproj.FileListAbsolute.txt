@@ -1,0 +1,42 @@
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\bin\Release\net5.0\Entity.deps.json
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\bin\Release\net5.0\Entity.runtimeconfig.json
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\bin\Release\net5.0\Entity.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\bin\Release\net5.0\Entity.exe
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\bin\Release\net5.0\BLL.deps.json
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\bin\Release\net5.0\BLL.dll
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\bin\Release\net5.0\ref\BLL.dll
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\bin\Release\net5.0\BLL.pdb
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\bin\Release\net5.0\DAL.dll
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\bin\Release\net5.0\Entity.dll
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\bin\Release\net5.0\DAL.pdb
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\bin\Release\net5.0\Entity.pdb
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\obj\Release\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\obj\Release\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\obj\Release\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\obj\Release\net5.0\BLL.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\obj\Release\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\obj\Release\net5.0\BLL.csproj.CopyComplete
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\obj\Release\net5.0\BLL.dll
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\obj\Release\net5.0\ref\BLL.dll
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\obj\Release\net5.0\BLL.pdb
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\bin\Release\net5.0\Entity.deps.json
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\bin\Release\net5.0\Entity.runtimeconfig.json
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\bin\Release\net5.0\Entity.runtimeconfig.dev.json
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\bin\Release\net5.0\Entity.exe
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\bin\Release\net5.0\BLL.deps.json
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\bin\Release\net5.0\BLL.dll
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\bin\Release\net5.0\ref\BLL.dll
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\bin\Release\net5.0\BLL.pdb
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\bin\Release\net5.0\DAL.dll
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\bin\Release\net5.0\Entity.dll
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\bin\Release\net5.0\DAL.pdb
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\bin\Release\net5.0\Entity.pdb
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\obj\Release\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\obj\Release\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\obj\Release\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\obj\Release\net5.0\BLL.AssemblyInfo.cs
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\obj\Release\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\obj\Release\net5.0\BLL.csproj.CopyComplete
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\obj\Release\net5.0\BLL.dll
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\obj\Release\net5.0\ref\BLL.dll
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\obj\Release\net5.0\BLL.pdb

@@ -1,0 +1,32 @@
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\Entity\bin\Release\net5.0\Entity.exe
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\Entity\bin\Release\net5.0\Entity.deps.json
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\Entity\bin\Release\net5.0\Entity.runtimeconfig.json
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\Entity\bin\Release\net5.0\Entity.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\Entity\bin\Release\net5.0\Entity.dll
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\Entity\bin\Release\net5.0\ref\Entity.dll
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\Entity\bin\Release\net5.0\Entity.pdb
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\Entity\obj\Release\net5.0\Entity.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\Entity\obj\Release\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\Entity\obj\Release\net5.0\Entity.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\Entity\obj\Release\net5.0\Entity.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\Entity\obj\Release\net5.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\Entity\obj\Release\net5.0\Entity.dll
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\Entity\obj\Release\net5.0\ref\Entity.dll
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\Entity\obj\Release\net5.0\Entity.pdb
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\Entity\obj\Release\net5.0\Entity.genruntimeconfig.cache
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\Entity\bin\Release\net5.0\Entity.exe
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\Entity\bin\Release\net5.0\Entity.deps.json
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\Entity\bin\Release\net5.0\Entity.runtimeconfig.json
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\Entity\bin\Release\net5.0\Entity.runtimeconfig.dev.json
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\Entity\bin\Release\net5.0\Entity.dll
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\Entity\bin\Release\net5.0\ref\Entity.dll
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\Entity\bin\Release\net5.0\Entity.pdb
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\Entity\obj\Release\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\Entity\obj\Release\net5.0\Entity.AssemblyInfoInputs.cache
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\Entity\obj\Release\net5.0\Entity.AssemblyInfo.cs
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\Entity\obj\Release\net5.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\Entity\obj\Release\net5.0\Entity.dll
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\Entity\obj\Release\net5.0\ref\Entity.dll
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\Entity\obj\Release\net5.0\Entity.pdb
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\Entity\obj\Release\net5.0\Entity.genruntimeconfig.cache
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\Entity\obj\Release\net5.0\Entity.csproj.AssemblyReference.cache

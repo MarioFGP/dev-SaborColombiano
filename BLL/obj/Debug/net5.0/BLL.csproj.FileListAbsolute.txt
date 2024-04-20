@@ -1,0 +1,147 @@
+C:\Users\HP\OneDrive\Documentos\U\SaborColombiano\BLL\bin\Debug\net5.0\Entity.deps.json
+C:\Users\HP\OneDrive\Documentos\U\SaborColombiano\BLL\bin\Debug\net5.0\Entity.runtimeconfig.json
+C:\Users\HP\OneDrive\Documentos\U\SaborColombiano\BLL\bin\Debug\net5.0\Entity.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Documentos\U\SaborColombiano\BLL\bin\Debug\net5.0\Entity.exe
+C:\Users\HP\OneDrive\Documentos\U\SaborColombiano\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\HP\OneDrive\Documentos\U\SaborColombiano\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\HP\OneDrive\Documentos\U\SaborColombiano\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\Users\HP\OneDrive\Documentos\U\SaborColombiano\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\HP\OneDrive\Documentos\U\SaborColombiano\BLL\bin\Debug\net5.0\DAL.dll
+C:\Users\HP\OneDrive\Documentos\U\SaborColombiano\BLL\bin\Debug\net5.0\Entity.dll
+C:\Users\HP\OneDrive\Documentos\U\SaborColombiano\BLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\HP\OneDrive\Documentos\U\SaborColombiano\BLL\bin\Debug\net5.0\Entity.pdb
+C:\Users\HP\OneDrive\Documentos\U\SaborColombiano\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Documentos\U\SaborColombiano\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Documentos\U\SaborColombiano\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Documentos\U\SaborColombiano\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Documentos\U\SaborColombiano\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documentos\U\SaborColombiano\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\Users\HP\OneDrive\Documentos\U\SaborColombiano\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\HP\OneDrive\Documentos\U\SaborColombiano\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\HP\OneDrive\Documentos\U\SaborColombiano\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\bin\Debug\net5.0\Entity.deps.json
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\bin\Debug\net5.0\Entity.runtimeconfig.json
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\bin\Debug\net5.0\Entity.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\bin\Debug\net5.0\Entity.exe
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\bin\Debug\net5.0\DAL.dll
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\bin\Debug\net5.0\Entity.dll
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\bin\Debug\net5.0\Entity.pdb
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\mario\Documents\U\SaborColombiano\BLL\bin\Debug\net5.0\Entity.deps.json
+C:\Users\mario\Documents\U\SaborColombiano\BLL\bin\Debug\net5.0\Entity.runtimeconfig.json
+C:\Users\mario\Documents\U\SaborColombiano\BLL\bin\Debug\net5.0\Entity.runtimeconfig.dev.json
+C:\Users\mario\Documents\U\SaborColombiano\BLL\bin\Debug\net5.0\Entity.exe
+C:\Users\mario\Documents\U\SaborColombiano\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\mario\Documents\U\SaborColombiano\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\mario\Documents\U\SaborColombiano\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\Users\mario\Documents\U\SaborColombiano\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\mario\Documents\U\SaborColombiano\BLL\bin\Debug\net5.0\DAL.dll
+C:\Users\mario\Documents\U\SaborColombiano\BLL\bin\Debug\net5.0\Entity.dll
+C:\Users\mario\Documents\U\SaborColombiano\BLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\mario\Documents\U\SaborColombiano\BLL\bin\Debug\net5.0\Entity.pdb
+C:\Users\mario\Documents\U\SaborColombiano\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\mario\Documents\U\SaborColombiano\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\Documents\U\SaborColombiano\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\mario\Documents\U\SaborColombiano\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\mario\Documents\U\SaborColombiano\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\mario\Documents\U\SaborColombiano\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\Users\mario\Documents\U\SaborColombiano\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\mario\Documents\U\SaborColombiano\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\mario\Documents\U\SaborColombiano\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\bin\Debug\net5.0\Entity.deps.json
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\bin\Debug\net5.0\Entity.runtimeconfig.json
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\bin\Debug\net5.0\Entity.runtimeconfig.dev.json
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\bin\Debug\net5.0\Entity.exe
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\bin\Debug\net5.0\DAL.dll
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\bin\Debug\net5.0\Entity.dll
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\bin\Debug\net5.0\Entity.pdb
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\mario\Documents\U\Nueva\SaborColombiano\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\sorukens\Downloads\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\Entity.deps.json
+C:\Users\sorukens\Downloads\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\Entity.runtimeconfig.json
+C:\Users\sorukens\Downloads\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\Entity.runtimeconfig.dev.json
+C:\Users\sorukens\Downloads\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\Entity.exe
+C:\Users\sorukens\Downloads\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\sorukens\Downloads\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\sorukens\Downloads\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\Users\sorukens\Downloads\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\sorukens\Downloads\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\DAL.dll
+C:\Users\sorukens\Downloads\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\Entity.dll
+C:\Users\sorukens\Downloads\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\sorukens\Downloads\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\Entity.pdb
+C:\Users\sorukens\Downloads\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\sorukens\Downloads\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sorukens\Downloads\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\sorukens\Downloads\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\sorukens\Downloads\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\sorukens\Downloads\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\Users\sorukens\Downloads\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\sorukens\Downloads\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\sorukens\Downloads\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\mario\Desktop\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\Entity.deps.json
+C:\Users\mario\Desktop\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\Entity.runtimeconfig.json
+C:\Users\mario\Desktop\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\Entity.runtimeconfig.dev.json
+C:\Users\mario\Desktop\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\Entity.exe
+C:\Users\mario\Desktop\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\mario\Desktop\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\mario\Desktop\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\mario\Desktop\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\DAL.dll
+C:\Users\mario\Desktop\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\Entity.dll
+C:\Users\mario\Desktop\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\mario\Desktop\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\Entity.pdb
+C:\Users\mario\Desktop\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\mario\Desktop\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\Desktop\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\mario\Desktop\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\mario\Desktop\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\Users\mario\Desktop\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\mario\Desktop\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\mario\Desktop\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\mario\Desktop\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\refint\BLL.dll
+E:\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\Entity.deps.json
+E:\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\Entity.runtimeconfig.json
+E:\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\Entity.runtimeconfig.dev.json
+E:\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\Entity.exe
+E:\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\BLL.deps.json
+E:\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\BLL.dll
+E:\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\BLL.pdb
+E:\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\DAL.dll
+E:\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\Entity.dll
+E:\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\DAL.pdb
+E:\SaborColombiano\SaborColombiano\BLL\bin\Debug\net5.0\Entity.pdb
+E:\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+E:\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+E:\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+E:\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+E:\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+E:\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\BLL.dll
+E:\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\refint\BLL.dll
+E:\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\BLL.pdb
+E:\SaborColombiano\SaborColombiano\BLL\obj\Debug\net5.0\ref\BLL.dll

@@ -1,0 +1,5 @@
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\out\Entity.exe
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\out\Entity.dll
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\out\Entity.deps.json
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\out\Entity.runtimeconfig.json
+C:\Users\HP\OneDrive\Documentos\U\Nueva carpeta\SaborColombiano\out\Entity.pdb
